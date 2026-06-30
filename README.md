@@ -1,4 +1,4 @@
-# Actividad Formativa Exp3 Semana 7 – DOO I
+# Actividad Formativa Semana 7 – DOO I
 - **Nombre completo:** Gabriel Alejandro Gomez Pizarro
 - **Carrera:** Analista Programador Computacional
 - **Sección:** 001A
@@ -34,5 +34,4 @@ Este proyecto trata de una aplicación de consola desarrollada en java para la a
 
 ---
 
-**Repositorio GitHub:** https://github.com/GABO721/2026_DOO1_Exp3.7
 **Fecha de entrega:** 30/06/2026
