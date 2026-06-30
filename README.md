@@ -1,4 +1,4 @@
-# Actividad Sumativa Exp3 Semana 7 – DOO I
+# Actividad Formativa Exp3 Semana 7 – DOO I
 - **Nombre completo:** Gabriel Alejandro Gomez Pizarro
 - **Carrera:** Analista Programador Computacional
 - **Sección:** 001A
