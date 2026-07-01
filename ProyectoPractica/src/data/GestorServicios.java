@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class GestorServicios {
-    public void instanciacion() {
+    public void cargarServicios() {
 
         List<ServicioTuristico> servicios = new ArrayList<>();
 
